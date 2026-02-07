@@ -31,9 +31,17 @@ This folder includes exercises and examples related to:
 
 ## 🌐 Learning Resources
 
-During my learning process, I practiced using interactive platforms to strengthen my understanding of programming logic, including:
+During my learning process, I used interactive websites to strengthen my understanding of programming logic and basic concepts:
 
-- https://reeborg.ca/docs/en/#
+- https://reeborg.ca/docs/en/#  
+- https://ascii.co.uk/art  
+
+---
+
+## 🛠️ Tools I Used
+
+- https://thonny.org/  
+  Used for writing Python code and stepping through execution to better understand how each line runs.
 
 ---
 
