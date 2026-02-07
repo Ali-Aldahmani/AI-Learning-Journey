@@ -8,10 +8,10 @@ The focus here is not on complex projects, but on building a strong understandin
 
 ## 🎯 Purpose of This Folder
 
-- Learn Python from the ground up
-- Understand how programming logic works
-- Prepare for NumPy, Pandas, and Machine Learning
-- Practice writing clean and readable code
+- Learn Python from the ground up  
+- Understand how programming logic works  
+- Prepare for NumPy, Pandas, and Machine Learning  
+- Practice writing clean and readable code  
 
 ---
 
@@ -19,13 +19,21 @@ The focus here is not on complex projects, but on building a strong understandin
 
 This folder includes exercises and examples related to:
 
-- Variables and Data Types
-- Lists, Tuples, Dictionaries
-- Conditional Statements (if / else)
-- Loops (for / while)
-- Functions
-- Basic problem-solving tasks
-- Input and output operations
+- Variables and Data Types  
+- Lists, Tuples, Dictionaries  
+- Conditional Statements (if / else)  
+- Loops (for / while)  
+- Functions  
+- Basic problem-solving tasks  
+- Input and output operations  
+
+---
+
+## 🌐 Learning Resources
+
+During my learning process, I practiced using interactive platforms to strengthen my understanding of programming logic, including:
+
+- https://reeborg.ca/docs/en/#
 
 ---
 
