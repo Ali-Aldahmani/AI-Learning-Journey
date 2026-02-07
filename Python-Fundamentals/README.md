@@ -31,10 +31,11 @@ This folder includes exercises and examples related to:
 
 ## 🌐 Learning Resources
 
-During my learning process, I used interactive websites to strengthen my understanding of programming logic and basic concepts:
+During my learning process, I used interactive websites and references to strengthen my understanding of programming logic and clean coding practices:
 
 - https://reeborg.ca/docs/en/#  
 - https://ascii.co.uk/art  
+- https://peps.python.org/pep-0008/  
 
 ---
 
