@@ -13,7 +13,6 @@ AI-Learning-Journey
 - NumPy-Pandas
 - Machine-Learning
 - Deep-Learning
-- University-Projects
 - Mini-Projects
 - Notes
 - Datasets
