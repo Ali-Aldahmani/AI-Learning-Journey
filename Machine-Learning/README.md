@@ -32,7 +32,7 @@ In this repository, I document every algorithm I learn through a real-world prac
 | :--- | :--- | :--- | :--- |
 | **K-Nearest Neighbors (KNN)** | 🕵️‍♂️ Classified Data Project | Using `KNN` to classify anonymous data, implementing the **Elbow Method** to select the optimal 'K' value for maximum accuracy. | ✅ Completed |
 | **Logistic Regression** | 🚢 Titanic Survival Prediction | Building a classification model to predict Titanic survivors based on passenger demographics. | ✅ Completed |
-| **Linear Regression** | 🏠 USA Housing Price | A regression model to predict housing prices based on property features and location. | ✅ Completed |
+| **Linear Regression** | 📈 ADNOC Stock Prediction | A regression model to predict the future stock price of ADNOC Distribution based on historical market data. | ✅ Completed |
 | **Decision Trees & Random Forests** | 🌳 (Coming Soon) | Upcoming projects focusing on tree-based methods for classification and regression. | ⏳ In Progress |
 
 ---
