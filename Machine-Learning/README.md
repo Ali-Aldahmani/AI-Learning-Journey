@@ -15,7 +15,7 @@ I am proud to be an **AWS Academy Graduate - Machine Learning Foundations**.
 This certification validates my understanding of core Machine Learning concepts, the Cloud ecosystem, and the ML lifecycle within the AWS environment.
 
 <div align="center">
-  <img src="aws-badge.png" alt="AWS Academy Graduate - Machine Learning Foundations Badge" width="200"/>
+  <img src="Assets/aws-academy-graduate-machine-learning-foundations-t.png" alt="AWS Academy Graduate - Machine Learning Foundations Badge" width="200"/>
   <br>
   <b>AWS Academy Graduate - Machine Learning Foundations</b>
   <br>
