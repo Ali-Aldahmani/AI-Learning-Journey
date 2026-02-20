@@ -37,20 +37,6 @@ This repository documents my learning progress, projects, notebooks, and practic
 
 ---
 
-## 📂 Repository Structure  
-
-```
-Data-Science/
-│
-├── notes/
-├── notebooks/
-├── projects/
-├── datasets/
-└── capstone/
-```
-
----
-
 ## 🎯 Goals  
 
 - Build strong fundamentals in Data Science  
